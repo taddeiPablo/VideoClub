@@ -1,9 +1,0 @@
-C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubEntidades\bin\Release\VideoClubEntidades.dll
-C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubEntidades\bin\Release\VideoClubEntidades.pdb
-C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubEntidades\bin\Release\VideoClubEntidades.xml
-C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubEntidades\obj\Release\ResolveAssemblyReference.cache
-C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubEntidades\obj\Release\VideoClubEntidades.Resources.resources
-C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubEntidades\obj\Release\VideoClubEntidades.vbproj.GenerateResource.Cache
-C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubEntidades\obj\Release\VideoClubEntidades.dll
-C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubEntidades\obj\Release\VideoClubEntidades.xml
-C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubEntidades\obj\Release\VideoClubEntidades.pdb
