@@ -1,0 +1,65 @@
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.pdb
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.xml
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.Resources.resources
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.vbproj.GenerateResource.Cache
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.dll
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.xml
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.pdb
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll.config
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.dll
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.pdb
+C:\Users\pablo\Documents\Visual Studio 2008\Projects\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.xml
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll.config
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.pdb
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.xml
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.dll
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.pdb
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.xml
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.Resources.resources
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.dll
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.xml
+C:\Users\Administrator\Desktop\Projecto Lab IV\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.pdb
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll.config
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.pdb
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.xml
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.dll
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.pdb
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.xml
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.Resources.resources
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.vbproj.GenerateResource.Cache
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.dll
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.xml
+C:\Users\pablo\Desktop\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.pdb
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll.config
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.pdb
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.xml
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.dll
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.pdb
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.xml
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.Resources.resources
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.vbproj.GenerateResource.Cache
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.dll
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.xml
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.pdb
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll.config
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.dll
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.pdb
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubDatos.xml
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.dll
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.pdb
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Debug\VideoClubEntidades.xml
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.vbprojResolveAssemblyReference.cache
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.Resources.resources
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.vbproj.GenerateResource.Cache
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.dll
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.xml
+C:\Users\pablo\programas\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Debug\VideoClubDatos.pdb

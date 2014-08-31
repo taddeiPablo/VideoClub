@@ -1,0 +1,197 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VideoClubDatos
+</name>
+</assembly>
+<members>
+<member name="P:VideoClubDatos.Datos.ConnectionSQL">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.Datos.#ctor">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.Datos.cargarTablas(System.String,System.Data.DataTable)">
+	<summary>
+	</summary>
+	<param name="sp"></param>
+	<param name="dtTable"></param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.Datos.existe(System.String,System.Data.SqlClient.SqlParameter[])">
+	<summary>
+	</summary>
+	<param name="sp"></param>
+	<param name="params"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.Datos.existePelicula(System.String,System.Data.SqlClient.SqlParameter[])">
+	<summary>
+	</summary>
+	<param name="sp"></param>
+	<param name="params"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.Datos.Abm(System.String,System.Data.SqlClient.SqlParameter[])">
+	<summary>
+	</summary>
+	<param name="sp"></param>
+	<param name="params"></param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.Datos.abmAlquileres_Compras(System.String,System.Data.SqlClient.SqlParameter[],System.Data.SqlClient.SqlTransaction@)">
+	<summary>
+	</summary>
+	<param name="sp"></param>
+	<param name="params"></param>
+	<param name="sqltrans"></param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.Datos.close">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosClientes.#ctor">
+	<summary>
+ CONSTRUCTOR
+ </summary>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosClientes.cargarClientes(System.Data.DataTable)">
+	<summary>
+ METODO PARA CARGAR LOS CLIENTES EN LA GRILLA
+ ESTA ES LA CAPA DE DATOS.
+ </summary>
+	<param name="dtclientes">RESIVE UN DATATABLE</param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosClientes.existeCliente(System.String)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMETROS
+ SQL NESESARIOS PARA HACER LA CONSULTA A LA BASE DE DATOS
+ </summary>
+	<param name="dni">RESIVE EL DNI</param>
+	<returns>DEVUELVE UN ENTERO</returns>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosClientes.altaCliente(VideoClubEntidades.Cliente)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMETROS SQL NECESARIOS PARA HACER UN ALTA A LA BASE DE DATOS
+ </summary>
+	<param name="uncliente">RESIVE UN CLIENTE</param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosClientes.existeAlquileresCompras(System.Int32)">
+	<summary>
+ METODO DONDE CONFIGURAMOS LOS PARAMEROS SQL.
+ </summary>
+	<param name="idcliente">RESIVE EL ID DE UN CLIENTE</param>
+	<returns>RETORNA UN ENTERO</returns>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosClientes.bajaClienteAlquilresCompras(VideoClubEntidades.Cliente)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMETROS SQL.
+ AQUI REALIZAREMOS LA BAJA DE CLIENTES Y SU HISTORIAL
+ </summary>
+	<param name="uncliente">RESIVE UN CLIENTE</param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosClientes.bajaCliente(VideoClubEntidades.Cliente)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMETROS SQL.
+ AQUI REALIZAMOS LA BAJA DEL CLIENTE UNICAMENTE
+ </summary>
+	<param name="uncliente">RESIVE UN CLIENTE</param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosClientes.modificacionCliente(VideoClubEntidades.Cliente)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMETROS SQL.
+ AQUI REALIZAMOS UNA MODIFICACION DEL CLIENTE.
+ </summary>
+	<param name="uncliente">RESIVE UN CLIENTE</param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosClientes.exportarDatos(System.String,System.Collections.Generic.List{VideoClubEntidades.Cliente})">
+	<summary>
+ METODO PARA EXPORTAR LOS CLIENTES A UN ARCHIVO XML
+ </summary>
+	<param name="ruta">RUTA HACIA LA CARPETA EN DONDE SE VA A GUARDAR EL ARCHIVO XML</param>
+	<param name="lista">LISTA DE CLIENTES</param>
+	<returns>RETORNA UN ENTERO</returns>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosCompras.cargarCompras(System.Int32,System.Data.DataTable)">
+	<summary>
+	</summary>
+	<param name="idcliente"></param>
+	<param name="dtCompras"></param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosCompras.AltaCompra(VideoClubEntidades.Compra,System.Data.DataTable)">
+	<summary>
+	</summary>
+	<param name="comp"></param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosCompras.altaListaCompra(VideoClubEntidades.Compra,System.Int32)">
+	<summary>
+	</summary>
+	<param name="comp"></param>
+	<param name="idcompra"></param>
+	<remarks></remarks>
+</member><member name="P:VideoClubDatos.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:VideoClubDatos.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:VideoClubDatos.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:VideoClubDatos.DatosCatalogo.#ctor">
+	<summary>
+ CONSTRUCTOR
+ </summary>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosCatalogo.cargarCatalogo(System.Data.DataTable)">
+	<summary>
+ METODO EN DONDE CARGAMOS LOS DATOS DEL CATALOGO EN LA GRILLA.
+ </summary>
+	<param name="dtCalatolo">RESIVE UN DATATABLE</param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosCatalogo.ExistePelicula(System.String)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMATROS SQL.
+ AQUI VERIFICAMOS SI LA PELICULA QUE ESTAMOS POR GUARDAR YA EXISTE EN EL CATALOGO
+ </summary>
+	<param name="titulo">RESIVE UN TITULO</param>
+	<returns>RETORNA ESTRING</returns>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosCatalogo.cambiarCampoPelicula(System.String)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMETROS SQL.
+ PARA CAMBIAR EL CAMPO POR EL CUAL SE DETERMINA SI FUE BORRADA O NO
+ </summary>
+	<param name="titulo">RESIVE EL TITULO DE LA PELICULA</param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosCatalogo.altaPelicula(VideoClubEntidades.Pelicula)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMETROS SQL.
+ AQUI HACEMOS UN ALTA DE PELICULAS
+ </summary>
+	<param name="unaPelicula"></param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosCatalogo.bajaPelicula(System.Int32)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMETROS SQL.
+ AQUI HACEMOS UNA BAJA DE UNA PELICULA.
+ </summary>
+	<param name="idPelicula">RESIVE UN ID DE PELICULA</param>
+	<remarks></remarks>
+</member><member name="M:VideoClubDatos.DatosCatalogo.modificacionPelicula(VideoClubEntidades.Pelicula)">
+	<summary>
+ METODO EN DONDE CONFIGURAMOS LOS PARAMETROS SQL.
+ AQUI MODIFICAMOS UNA PELICULA.
+ </summary>
+	<param name="unaPelicula">RESIVE UNA PELICULA</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

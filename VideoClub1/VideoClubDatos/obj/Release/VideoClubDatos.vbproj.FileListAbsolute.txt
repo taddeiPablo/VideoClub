@@ -1,0 +1,13 @@
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Release\VideoClubDatos.dll.config
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Release\VideoClubDatos.dll
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Release\VideoClubDatos.pdb
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Release\VideoClubDatos.xml
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Release\VideoClubEntidades.dll
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Release\VideoClubEntidades.pdb
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\bin\Release\VideoClubEntidades.xml
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Release\VideoClubDatos.Resources.resources
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Release\VideoClubDatos.vbproj.GenerateResource.Cache
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Release\VideoClubDatos.dll
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Release\VideoClubDatos.xml
+C:\Users\pablo\Desktop\Proyecto Mejorado Terminar\VideoClub1\VideoClubDatos\obj\Release\VideoClubDatos.pdb

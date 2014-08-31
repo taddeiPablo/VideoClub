@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B292FC2C-2317-4A72-9A4C-DB307FF5A3E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VideoClub1.Main</StartupObject>
+    <RootNamespace>VideoClub1</RootNamespace>
+    <AssemblyName>VideoClub1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VideoClub1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VideoClub1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABMs\FrmABMclientes.Designer.vb">
+      <DependentUpon>FrmABMclientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\FrmABMclientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\FrmABMpeliculas.Designer.vb">
+      <DependentUpon>FrmABMpeliculas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\FrmABMpeliculas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\FrmABMalquileres.Designer.vb">
+      <DependentUpon>FrmABMalquileres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\FrmABMalquileres.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\FrmCompras.Designer.vb">
+      <DependentUpon>FrmCompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\FrmCompras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\FrmDevolucionAlq.Designer.vb">
+      <DependentUpon>FrmDevolucionAlq.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\FrmDevolucionAlq.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios-Principales\AcercaDe.Designer.vb">
+      <DependentUpon>AcercaDe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios-Principales\AcercaDe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle alq y compra\FrmDetalleAlq.Designer.vb">
+      <DependentUpon>FrmDetalleAlq.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle alq y compra\FrmDetalleAlq.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle alq y compra\FrmDetalleCompra.Designer.vb">
+      <DependentUpon>FrmDetalleCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle alq y compra\FrmDetalleCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios-Principales\FrmComprasAlquileres.Designer.vb">
+      <DependentUpon>FrmComprasAlquileres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios-Principales\FrmComprasAlquileres.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios-importar-exportar\FrmExportar.Designer.vb">
+      <DependentUpon>FrmExportar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios-importar-exportar\FrmExportar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios-importar-exportar\FrmImportar.Designer.vb">
+      <DependentUpon>FrmImportar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios-importar-exportar\FrmImportar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios-Principales\FrmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios-Principales\FrmPrincipal.Designer.vb">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios-Principales\FrmCatalogo.Designer.vb">
+      <DependentUpon>FrmCatalogo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios-Principales\FrmCatalogo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios-Principales\FrmClientes.Designer.vb">
+      <DependentUpon>FrmClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios-Principales\FrmClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioVistaCompras\FrmVistadeCompras.Designer.vb">
+      <DependentUpon>FrmVistadeCompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioVistaCompras\FrmVistadeCompras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ABMs\FrmABMalquileres.resx">
+      <DependentUpon>FrmABMalquileres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\FrmABMclientes.resx">
+      <DependentUpon>FrmABMclientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\FrmABMpeliculas.resx">
+      <DependentUpon>FrmABMpeliculas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\FrmCompras.resx">
+      <DependentUpon>FrmCompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\FrmDevolucionAlq.resx">
+      <DependentUpon>FrmDevolucionAlq.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios-Principales\AcercaDe.resx">
+      <DependentUpon>AcercaDe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle alq y compra\FrmDetalleAlq.resx">
+      <DependentUpon>FrmDetalleAlq.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle alq y compra\FrmDetalleCompra.resx">
+      <DependentUpon>FrmDetalleCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios-Principales\FrmCatalogo.resx">
+      <DependentUpon>FrmCatalogo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios-Principales\FrmClientes.resx">
+      <DependentUpon>FrmClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios-Principales\FrmComprasAlquileres.resx">
+      <DependentUpon>FrmComprasAlquileres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios-importar-exportar\FrmExportar.resx">
+      <DependentUpon>FrmExportar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios-importar-exportar\FrmImportar.resx">
+      <DependentUpon>FrmImportar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios-Principales\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioVistaCompras\FrmVistadeCompras.resx">
+      <DependentUpon>FrmVistadeCompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VideoClubEntidades\VideoClubEntidades.vbproj">
+      <Project>{1D3F9A82-2D81-45CE-94B4-6B26BF47D5A0}</Project>
+      <Name>VideoClubEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VideoClubNegocios\VideoClubNegocios.vbproj">
+      <Project>{6354ED03-DF41-465A-A1FC-500DB1C63064}</Project>
+      <Name>VideoClubNegocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

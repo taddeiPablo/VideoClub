@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clientes>
+  <Cliente Nombre="pablo" Apellido="taddei" Dni="34502230" Direccion="calle: 880 solano" Telefono="42504671" Email="pablo_taddei@yahoo.com.ar" />
+  <Cliente Nombre="lilian" Apellido="coledesky" Dni="13362405" Direccion="calle : 880 3324 solano" Telefono="42504671" Email="lilian_coledesky@yahoo.com.ar" />
+  <Cliente Nombre="tito" Apellido="tito" Dni="3213546" Direccion="calle : 123" Telefono="123456" Email="tito@tito" />
+  <Cliente Nombre="carlos" Apellido="bianchi" Dni="13548" Direccion="calle: 880" Telefono="21345648" Email="carlos@carlos" />
+  <Cliente Nombre="tito2" Apellido="tito2" Dni="231546" Direccion="calle : av cordoba" Telefono="5468795" Email="tito2@tito2" />
+  <Cliente Nombre="tito3" Apellido="Tito3" Dni="123654" Direccion="calle : corrientes" Telefono="2315487" Email="tito3" />
+</Clientes>

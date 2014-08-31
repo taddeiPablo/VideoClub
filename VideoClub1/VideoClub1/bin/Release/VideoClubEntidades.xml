@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VideoClubEntidades
+</name>
+</assembly>
+<members>
+<member name="P:VideoClubEntidades.Cliente.IDcliente_Cliente">
+	<summary>
+ propiedad cliente
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Cliente.Nombre_Cliente">
+	<summary>
+ propiedad nombre
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Cliente.Apellido_Cliente">
+	<summary>
+ propiedad apellido
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Cliente.Direccion_Cliente">
+	<summary>
+ propiedad direccion
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Cliente.Telefono_Cliente">
+	<summary>
+ propiedad telefono
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Cliente.Email_Cliente">
+	<summary>
+ email
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VideoClubEntidades.Cliente.#ctor(System.String,System.String,System.Int32,System.String,System.Int32,System.String)">
+	<summary>
+ CONSTRUCTOR
+ </summary>
+	<param name="nombre"></param>
+	<param name="apellido"></param>
+	<param name="direccion"></param>
+	<param name="telefono"></param>
+	<param name="email"></param>
+	<remarks></remarks>
+</member><member name="M:VideoClubEntidades.Cliente.#ctor(System.Int32,System.String,System.String,System.Int32,System.String,System.Int32,System.String)">
+	<summary>
+ sobrecarga de constructor
+ </summary>
+	<param name="idcliente"></param>
+	<param name="nombre"></param>
+	<param name="apellido"></param>
+	<param name="dni"></param>
+	<param name="direccion"></param>
+	<param name="telefono"></param>
+	<param name="email"></param>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Pelicula.ID_PELICULA">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Pelicula.Titulo_Pelicula">
+	<summary>
+ propiedad titulo
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Pelicula.Genero_Pelicula">
+	<summary>
+ propiedad genero
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Pelicula.Formato_Pelicula">
+	<summary>
+ propiedad formato
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Pelicula.PrecioAlquiler_Pelicula">
+	<summary>
+ propiedad precio Alquiler
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Pelicula.PrecioCompra_Pelicula">
+	<summary>
+ propiedad precio compra
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Pelicula.IMAGEN_BYTES">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VideoClubEntidades.Pelicula.Cantidad_Pelicula">
+	<summary>
+ propiedad cantidad
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VideoClubEntidades.Pelicula.#ctor(System.String,System.String,System.String,System.Single,System.Single,System.Byte[],System.Int32)">
+	<summary>
+ CONSTRUCTOR
+ </summary>
+	<param name="titulo"></param>
+	<param name="genero"></param>
+	<param name="formato"></param>
+	<param name="precioAlq"></param>
+	<param name="precioComp"></param>
+	<param name="cantidad"></param>
+	<remarks></remarks>
+</member><member name="M:VideoClubEntidades.Pelicula.#ctor(System.Int32,System.String,System.String,System.String,System.Single,System.Single,System.Byte[],System.Int32)">
+	<summary>
+	</summary>
+	<param name="idpelicula"></param>
+	<param name="titulo"></param>
+	<param name="genero"></param>
+	<param name="formato"></param>
+	<param name="precioAlq"></param>
+	<param name="precioComp"></param>
+	<param name="cantidad"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
